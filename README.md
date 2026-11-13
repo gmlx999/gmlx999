@@ -120,9 +120,6 @@ $ status --now
 ### `> 04 // GITHUB METRICS`
 
 <div align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=gmlx999&amp;show_icons=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=b3b3b3&amp;icon_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;cache_seconds=14400" />
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmlx999&amp;layout=compact&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=b3b3b3&amp;border_color=333333&amp;hide_border=false&amp;cache_seconds=14400" />
-  <br/><br/>
   <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gmlx999&amp;background=000000&amp;border=333333&amp;stroke=333333&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=ffffff&amp;sideLabels=b3b3b3&amp;dates=777777" />
 </div>
 
